@@ -1,0 +1,235 @@
+body{
+    margin:0;
+   
+    
+   
+    font-family: 'Poppins', sans-serif ;
+
+    }
+    h3{
+        font-size: 40px;
+    
+    }
+    h1{
+        font-size: 60px;
+        font-weight: 700;
+    }
+    
+     #name-highlight{
+        color:#EC4C7A;
+        font-size: 60px;
+    
+      
+       
+    
+    }
+    .half-width img{
+         width: 100% 
+    
+    
+    }
+    .paragraf{
+        padding-left: 10%;
+       
+    }
+    
+    .top-banner{
+       background-repeat: no-repeat;
+       background-image: url("images/header-bg.png");
+       height: 700px;
+        padding-bottom: 400px;
+        
+    }
+   
+    
+        
+    .half-width img:hover{
+        transform: scale(1.05);
+    }
+   
+    
+    .half-width{
+        width: 30%;
+        float: left;
+        margin-top: 300px;
+        padding-right: 10%;
+    }
+    .half-width3 img:hover{
+        transform: scale(1.05);
+    }
+    
+
+
+    .half-width3{
+        width: 30%;
+        float: left;
+        margin-top: 300px;
+        padding-left: 20%;
+
+    }
+    .link-buton{
+        text-decoration: none;
+        background-image: linear-gradient(360deg,#EC4C7A,#EC4C7A);
+        padding: 10px 15px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 700;
+       
+        display: block;
+        max-width: 90px;
+        margin-left: 0px;
+        text-align: center;
+  
+    
+
+    }
+
+    .biography{
+
+        background-image: url("images/biography-bg.png");
+        background-repeat: no-repeat;
+       height: 1000px;
+        
+    
+       
+    }
+    .link-buton1 img:hover{
+        transform: scale(05);
+    }
+    .link-buton1{
+        text-decoration: none;
+        background-image: linear-gradient(360deg,#EC4C7A,#EC4C7A);
+        padding: 10px 10px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 700;
+    }
+    .half-width1 img:hover{
+        transform: scale(1.05); 
+    }
+
+    .half-width1{
+        width: 30%;
+        float: left;
+        margin-top: 100px;
+        padding-left: 10%;
+    }
+    .half-width2{
+        width: 30%;
+        float: left;
+        margin-top: 250px;
+        padding-left: 10%;
+       
+    }
+    section{
+        background-image: url("images/latest-work-bg.png");
+        background-repeat: no-repeat;
+        height: 700px;
+     
+
+    }
+
+
+
+
+
+
+
+    .letest-work{
+       
+        text-align: center;
+        font-size: 50px;
+        margin-bottom: 90px;
+       
+       
+       
+
+    }
+    .container-two-third img{
+        width: 30%;
+        transform: scale(1);
+        transition: linear .3s;
+        box-sizing: border-box;
+        float: left;
+        padding-left: 20px;
+        margin-left: 100px; 
+
+    }
+
+
+
+    .container-two-third img:hover{
+        transform: scale(1.05);
+        
+
+
+    }
+    .container-one-third img{
+        transform: scale(1);
+        transition: linear .3s;
+        width: 30%;
+        padding: 0 15px;
+        box-sizing: border-box;
+        float: left;
+        position: relative;
+        padding-left: 20px;
+      
+      
+
+    }
+    .container-one-third img:hover {
+        transform: scale(1.05);
+        transition: linear .3s;
+}
+
+
+    section{
+      background-image: url("images/footer-bg.png");
+      background-repeat: no-repeat
+
+}
+    .foter-area{
+        text-align: center;
+        height: 1000px;
+        padding-top: 200px;
+       
+}
+.client-say{
+    padding-top: 20px;
+}
+.text-pad{
+    padding-top: 10px;
+    font-size: 18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.last-area{
+   
+    background-image: linear-gradient(90deg,#EC4C7A,tomato);
+    padding: 50px 70px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+   margin: 100px 500px 0px 500px;
+   
+  
+ 
+}
+.font-big{
+    font-size: 35px;
+
+}
+.end-part{
+    margin-top: 200px;
+    color: darkgray;
+
+}
+       
+       
+   
+        
+           
+     
+ 
+  
+
+    
